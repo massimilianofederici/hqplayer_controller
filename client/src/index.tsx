@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import {Library} from "./Library";
 import "bootswatch/dist/darkly/bootstrap.min.css";
 import {
